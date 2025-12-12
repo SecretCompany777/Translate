@@ -6,6 +6,10 @@
             "name": "Deutsch (DE)",
             "file": "de_DE.json"
         },
+        "my_MY": {
+            "name": "Malay (MS)",
+            "file": "my_MY.json"
+        },
         "en_US": {
             "name": "English (US)",
             "file": "en_US.json"
